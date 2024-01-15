@@ -1,8 +1,8 @@
-# my Project
+# Readme Generator
 
 
   ## Description    
-  gonnna be epic
+  user input driven ReadMe generator
     
   ## Table of Contents
   
@@ -17,16 +17,16 @@
   npm i
 
   ## Usage
-  speak friend and enter
+  answer the questions to generate your readme
 
   ## License
   none
 
   ## Contributing
-  luck
+  please do
 
   ## Tests
   npm test
 
   ## Questions
-  'If you have any questions about thee Repo open an issue or contact me directly at stu@email. You can find more of my work at Meisterstu.'
+  If you have any questions about the Repo open an issue or contact me directly at [s_rainforth@icloud.com](s_rainforth@icloud.com). You can find more of my work at [GitHub](Meisterstu).

@@ -14,7 +14,7 @@ const questions = [
     {
         type: "input",
         name: "github",
-        message: "What is your GitHub username?"
+        message: "What is your GitHub?"
     },
     {
         type: "input",
@@ -52,24 +52,23 @@ const questions = [
     {
         type: "input",
         name: "usage",
-        message: "What does the user need about using the repo"
+        message: "What does the user need to know about using the repo"
     },
     {
         type: "input",
         name: "contributing",
-        message: "What does the user need about contributing to the repo"
+        message: "What does the user need to know about contributing to the repo"
     },
 ];
 
 // function to write README file
 function writeToFile(fileName, data) {
-   fs.writeFileSync(fileName, data)
+    fs.writeFileSync(fileName, data)
 }
 
 // function to initialize program
-// need to change the type for some entries
 function init() {
-    inquirer 
+    inquirer
         .prompt(questions)
         .then((answers) => {
             console.log(answers);
