@@ -2,9 +2,8 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  
-  ## Description    
 
+  ## Description    
   ${data.description}
     
   ## Table of Contents
@@ -17,8 +16,7 @@ function generateMarkdown(data) {
   - [Questions](#questions)
   
   ## Installation
-
-  ${data.dependencies}
+  ${data.installation}
 
   ## Usage
   ${data.usage}
@@ -27,11 +25,13 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Contributing
+  ${data.contributing}
 
   ## Tests
+  ${data.tests}
 
   ## Questions
-
+  If you have any questions about thee Repo open an issue or contact me directly at ${data.email}. You can find more of my work at ${data.github}.
 `;
 }
 
