@@ -1,8 +1,8 @@
-# Readme Generator
+# README-Generator
 
 
   ## Description    
-  user input driven ReadMe generator
+  App to generate a README.md file from user input
     
   ## Table of Contents
   
@@ -17,7 +17,7 @@
   npm i
 
   ## Usage
-  answer the questions to generate your readme
+  answer the questions to generate a README
 
   ## License
   none
@@ -29,4 +29,4 @@
   npm test
 
   ## Questions
-  If you have any questions about the Repo open an issue or contact me directly at [s_rainforth@icloud.com](s_rainforth@icloud.com). You can find more of my work at [GitHub](Meisterstu).
+  If you have any questions about the Repo open an issue or contact me directly at [s_rainforth@icloud.com](s_rainforth@icloud.com). You can find more of my work at [GitHub](https://github.com/Meisterstu).
