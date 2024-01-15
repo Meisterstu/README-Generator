@@ -1,8 +1,8 @@
-# here
+# my Project
+
 
   ## Description    
-
-  readme generator
+  gonnna be epic
     
   ## Table of Contents
   
@@ -14,16 +14,19 @@
   - [Questions](#questions)
   
   ## Installation
-
   npm i
 
   ## Usage
+  speak friend and enter
 
   ## License
+  none
 
   ## Contributing
+  luck
 
   ## Tests
+  npm test
 
   ## Questions
-
+  'If you have any questions about thee Repo open an issue or contact me directly at stu@email. You can find more of my work at Meisterstu.'
